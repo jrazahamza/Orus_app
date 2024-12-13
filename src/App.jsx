@@ -13,6 +13,7 @@ function App() {
   return (    
     <Router>
       <Routes>
+        {/* jus test */}
         <Route path="/" element={<Homepage />} />
         <Route path="/HotelListing" element={<HotelListing />} />
         <Route path="/FlightsListing" element={<FlightsListing />} />
