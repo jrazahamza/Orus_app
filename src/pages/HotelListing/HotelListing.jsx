@@ -19,7 +19,7 @@ function HotelListing() {
                     <div class="col-lg-3 col-md-3 hotel-listing-left-sec">
                         <Map />
                         <div class="filter-section">
-                            <h2 class="filter-heading">Filters</h2>
+                            <h2 class="filter-heading">Filters Hotel</h2>
                             <HotelFilter />                                                    
                         </div>
                     </div>
