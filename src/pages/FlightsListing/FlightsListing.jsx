@@ -6,7 +6,7 @@ import AiAssistant from '../../components/Card/Flight/AiAssistant'
 import ShowDetailsCard from '../../components/Card/Flight/ShowDetailsCard'
 import FlightListCard from '../../components/Card/Flight/FlightListCard'
 import HeaderFlightListing from '../../components/Header/HeaderFlightListing'
-import FlightFilter from '../../components/Filters/FlightFilter'
+import FlightFilter from '../../components/Filters copy/FlightFilter'
 
 function FlightsListing() {
   return (

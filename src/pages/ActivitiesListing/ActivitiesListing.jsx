@@ -1,7 +1,7 @@
 import React from 'react'
 import HeaderHotelListing from '../../components/Header/HeaderHotelListing'
 import Map from '../../components/Header/Map'
-import HotelFilter from '../../components/Filters/HotelFilter'
+import HotelFilter from '../../components/Filters copy/HotelFilter'
 import HotelListCard from '../../components/Card/Hotel/HotelListCard'
 import Footer from '../../components/Footer/Footer'
 import SuggestedCard from '../../components/Card/Hotel/SuggestedCard'
