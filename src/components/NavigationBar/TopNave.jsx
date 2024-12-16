@@ -66,6 +66,16 @@ function TopNave() {
                           Activities Listing
                         </a>
                       </li>
+                      <li>
+                        <a class="dropdown-item" href="/HotelDetails">
+                          Hotel Details
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="/HotelCheckout">
+                          Hotel Checkout
+                        </a>
+                      </li>
                     </ul>
                   </li>
                 </ul>
